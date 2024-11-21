@@ -109,7 +109,7 @@ camino para el desarrollo de los **KPI's**.
 Los KPI´s que son **indicadores clave de desempeño**, utilizados para medir el progreso y el éxito en áreas clave. 
 
 
-### KPI 1: Aumentar en un 2% el acceso al servicio de internet para el próximo trimestre, cada 100 hogares, por provincia.
+### KPI 1: .
 
 
 
